@@ -1,0 +1,23 @@
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+!!!
+QuEST Error in function createQuESTEnv: Invalid number of nodes. Distributed simulation can only make use of a power-of-2 number of node.
+!!!
+exiting..
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[37795,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------

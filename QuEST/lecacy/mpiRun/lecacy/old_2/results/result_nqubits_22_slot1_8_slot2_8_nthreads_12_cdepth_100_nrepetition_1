@@ -1,0 +1,32 @@
+rank: 0, dur: 31.097691s, error: 1e-13,  realMem: 17536000b (peak: 17536000b), virtMem: 521912000b (peak: 521912000b)
+rank: 1, dur: 30.960881s, error: 1e-13,  realMem: 16604000b (peak: 16604000b), virtMem: 521916000b (peak: 521916000b)
+rank: 2, dur: 31.095336s, error: 1e-13,  realMem: 16504000b (peak: 16504000b), virtMem: 521912000b (peak: 521912000b)
+rank: 3, dur: 31.088668s, error: 1e-13,  realMem: 16700000b (peak: 16700000b), virtMem: 521916000b (peak: 521916000b)
+rank: 4, dur: 31.094976s, error: 1e-13,  realMem: 17468000b (peak: 17468000b), virtMem: 521908000b (peak: 521908000b)
+rank: 5, dur: 30.822727s, error: 1e-13,  realMem: 16528000b (peak: 16528000b), virtMem: 521912000b (peak: 521912000b)
+rank: 6, dur: 31.091670s, error: 1e-13,  realMem: 17652000b (peak: 17652000b), virtMem: 521908000b (peak: 521908000b)
+rank: 7, dur: 31.092640s, error: 1e-13,  realMem: 17404000b (peak: 17404000b), virtMem: 521912000b (peak: 521912000b)
+rank: 8, dur: 31.204125s, error: 1e-13,  realMem: 17416000b (peak: 17416000b), virtMem: 472736000b (peak: 472736000b)
+rank: 9, dur: 30.958473s, error: 1e-13,  realMem: 17400000b (peak: 17400000b), virtMem: 472740000b (peak: 472740000b)
+rank: 10, dur: 31.181785s, error: 1e-13,  realMem: 17316000b (peak: 17316000b), virtMem: 472736000b (peak: 472736000b)
+rank: 11, dur: 31.161857s, error: 1e-13,  realMem: 17312000b (peak: 17312000b), virtMem: 472740000b (peak: 472740000b)
+rank: 12, dur: 31.194411s, error: 1e-13,  realMem: 17264000b (peak: 17264000b), virtMem: 472736000b (peak: 472736000b)
+rank: 13, dur: 30.874764s, error: 1e-13,  realMem: 17336000b (peak: 17336000b), virtMem: 472740000b (peak: 472740000b)
+rank: 14, dur: 31.154078s, error: 1e-13,  realMem: 17512000b (peak: 17512000b), virtMem: 472736000b (peak: 472736000b)
+rank: 15, dur: 31.174059s, error: 1e-13,  realMem: 17504000b (peak: 17504000b), virtMem: 472740000b (peak: 472740000b)
+31.307966
+31.301013
+31.287733
+31.284792
+31.305679
+31.294510
+31.288295
+31.268794
+31.286434
+31.284525
+31.277918
+31.272600
+31.287797
+31.275409
+31.305711
+31.293978

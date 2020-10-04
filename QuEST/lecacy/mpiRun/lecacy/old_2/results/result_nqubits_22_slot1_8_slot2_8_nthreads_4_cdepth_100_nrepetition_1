@@ -1,0 +1,32 @@
+rank: 0, dur: 29.866036s, error: 1e-13,  realMem: 16492000b (peak: 16492000b), virtMem: 456344000b (peak: 456344000b)
+rank: 1, dur: 29.866510s, error: 1e-13,  realMem: 17432000b (peak: 17432000b), virtMem: 456348000b (peak: 456348000b)
+rank: 2, dur: 29.836939s, error: 1e-13,  realMem: 16788000b (peak: 16788000b), virtMem: 456344000b (peak: 456344000b)
+rank: 3, dur: 29.684577s, error: 1e-13,  realMem: 17448000b (peak: 17448000b), virtMem: 456348000b (peak: 456348000b)
+rank: 4, dur: 29.833917s, error: 1e-13,  realMem: 17040000b (peak: 17040000b), virtMem: 456340000b (peak: 456340000b)
+rank: 5, dur: 29.861087s, error: 1e-13,  realMem: 17480000b (peak: 17480000b), virtMem: 456344000b (peak: 456344000b)
+rank: 6, dur: 29.764659s, error: 1e-13,  realMem: 16636000b (peak: 16636000b), virtMem: 456340000b (peak: 456340000b)
+rank: 7, dur: 29.818677s, error: 1e-13,  realMem: 16796000b (peak: 16796000b), virtMem: 456344000b (peak: 456344000b)
+rank: 8, dur: 29.929375s, error: 1e-13,  realMem: 17348000b (peak: 17348000b), virtMem: 472736000b (peak: 472736000b)
+rank: 9, dur: 29.935370s, error: 1e-13,  realMem: 17368000b (peak: 17368000b), virtMem: 472740000b (peak: 472740000b)
+rank: 10, dur: 29.930832s, error: 1e-13,  realMem: 17256000b (peak: 17256000b), virtMem: 472736000b (peak: 472736000b)
+rank: 11, dur: 29.707964s, error: 1e-13,  realMem: 17392000b (peak: 17392000b), virtMem: 472740000b (peak: 472740000b)
+rank: 12, dur: 29.925833s, error: 1e-13,  realMem: 17308000b (peak: 17308000b), virtMem: 472736000b (peak: 472736000b)
+rank: 13, dur: 29.923133s, error: 1e-13,  realMem: 17332000b (peak: 17332000b), virtMem: 472740000b (peak: 472740000b)
+rank: 14, dur: 29.772337s, error: 1e-13,  realMem: 17444000b (peak: 17444000b), virtMem: 472736000b (peak: 472736000b)
+rank: 15, dur: 29.863593s, error: 1e-13,  realMem: 17340000b (peak: 17340000b), virtMem: 472740000b (peak: 472740000b)
+30.031952
+30.038734
+30.019464
+30.024711
+30.036635
+30.029928
+30.022455
+30.028003
+30.017345
+30.008558
+30.000782
+30.002858
+30.018892
+30.015564
+30.019590
+30.006058

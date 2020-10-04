@@ -1,0 +1,32 @@
+rank: 0, dur: 30.216996s, error: 1e-13,  realMem: 17360000b (peak: 17360000b), virtMem: 448148000b (peak: 448148000b)
+rank: 1, dur: 30.300468s, error: 1e-13,  realMem: 17460000b (peak: 17460000b), virtMem: 448152000b (peak: 448152000b)
+rank: 2, dur: 30.143766s, error: 1e-13,  realMem: 17396000b (peak: 17396000b), virtMem: 448148000b (peak: 448148000b)
+rank: 3, dur: 30.274641s, error: 1e-13,  realMem: 17332000b (peak: 17332000b), virtMem: 448152000b (peak: 448152000b)
+rank: 4, dur: 30.075674s, error: 1e-13,  realMem: 17468000b (peak: 17468000b), virtMem: 448144000b (peak: 448144000b)
+rank: 5, dur: 30.291494s, error: 1e-13,  realMem: 17232000b (peak: 17232000b), virtMem: 448148000b (peak: 448148000b)
+rank: 6, dur: 30.111434s, error: 1e-13,  realMem: 17292000b (peak: 17292000b), virtMem: 448144000b (peak: 448144000b)
+rank: 7, dur: 30.300928s, error: 1e-13,  realMem: 17356000b (peak: 17356000b), virtMem: 448148000b (peak: 448148000b)
+rank: 8, dur: 30.235292s, error: 1e-13,  realMem: 17368000b (peak: 17368000b), virtMem: 472736000b (peak: 472736000b)
+rank: 9, dur: 30.344741s, error: 1e-13,  realMem: 17412000b (peak: 17412000b), virtMem: 472740000b (peak: 472740000b)
+rank: 10, dur: 30.189220s, error: 1e-13,  realMem: 17456000b (peak: 17456000b), virtMem: 472736000b (peak: 472736000b)
+rank: 11, dur: 30.276390s, error: 1e-13,  realMem: 17276000b (peak: 17276000b), virtMem: 472740000b (peak: 472740000b)
+rank: 12, dur: 30.156367s, error: 1e-13,  realMem: 17256000b (peak: 17256000b), virtMem: 472736000b (peak: 472736000b)
+rank: 13, dur: 30.325380s, error: 1e-13,  realMem: 17356000b (peak: 17356000b), virtMem: 472740000b (peak: 472740000b)
+rank: 14, dur: 30.177836s, error: 1e-13,  realMem: 17212000b (peak: 17212000b), virtMem: 472736000b (peak: 472736000b)
+rank: 15, dur: 30.346994s, error: 1e-13,  realMem: 17524000b (peak: 17524000b), virtMem: 472740000b (peak: 472740000b)
+30.440155
+30.425756
+30.437957
+30.431504
+30.444596
+30.434745
+30.413086
+30.423396
+30.416836
+30.410130
+30.422177
+30.442691
+30.414849
+30.429494
+30.424869
+30.422006

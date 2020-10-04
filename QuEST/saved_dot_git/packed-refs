@@ -1,0 +1,21 @@
+# pack-refs with: peeled fully-peeled sorted 
+3c278e4049a7357517f8baab498fe7f543c58041 refs/remotes/origin/ComplexSwitch
+7889a87f5642c83a151637a9a62a53521d8cde09 refs/remotes/origin/debug_warning_suppress
+292d39cae7ee5251b5854152e4c54821d557b20c refs/remotes/origin/develop
+1dfb701fc17b6d94c3ea46325c8c0c234fdffee4 refs/remotes/origin/diagonal-operator
+a306fb7149fa9b823ed9c88b562fcce7041eaa5d refs/remotes/origin/example_contrib_1
+a92e9d6bd6126c095cd4a44d0c487fab2230683f refs/remotes/origin/master
+4175075cc92f946c8e5c9b712f9bd71981c7757d refs/remotes/origin/old_python_tests
+9d575cb173c25c2679ce6f493b52048718025e33 refs/tags/2.1.0
+44f7f7732e438ce5975c7e4f855aba4077470c00 refs/tags/3.0.0
+3691659d8e92009c2d1d3fa56a15fb4fe9284a19 refs/tags/v0.10.0
+e67d6249b671c75278006c1675be62643cd1592f refs/tags/v0.11.0
+14dc8ed54f93ffe40ca0b4bbdbc3def452786a12 refs/tags/v0.11.1
+7402d6d7efffdd7c6de2545d99e5e68cea80efce refs/tags/v0.12.0
+7757a35f291616d53bf02897d42e6d4ba7e6aac0 refs/tags/v0.9.0
+5bf9f11ff92a1c57bdcf7a9640267e5849587d78 refs/tags/v1.0.0
+67eea92335cdbbe2a22751718d81fe45578a7b28 refs/tags/v1.1.0
+f895970c19e48a95f1a0c268000e9b7c80fab77f refs/tags/v2.0.0
+e0a65be50a9534115881a9e728d7c289b41c8199 refs/tags/v2.0.1
+9e23a14bd682d07190e22dfd007c9cbf8c2e7741 refs/tags/v3.0.1
+49b7673537e372a080c4c16497b0b5afdc412c63 refs/tags/v3.1.0

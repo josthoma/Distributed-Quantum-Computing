@@ -1,0 +1,4 @@
+How to build?
+
+CC=gcc-8 CXX=g++-8 cmake ..
+make

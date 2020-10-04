@@ -1,0 +1,60 @@
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+Number of Chunks are : 2
+rank: 1, transmission time: 0.000000
+rank: 0, calculation time: 4.286017
+rank: 1, calculation time: 9.128479
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+Number of Chunks are : 2
+rank: 0, calculation time: 4.260351
+rank: 1, transmission time: 0.000000
+rank: 1, calculation time: 11.410359
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+Number of Chunks are : 2
+rank: 0, calculation time: 5.141997
+rank: 1, transmission time: 0.000000
+rank: 1, calculation time: 9.029743
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+Number of Chunks are : 2
+rank: 0, calculation time: 5.190997
+rank: 1, transmission time: 0.000000
+rank: 1, calculation time: 7.013003
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+Number of Chunks are : 2
+rank: 0, calculation time: 4.301651
+rank: 1, transmission time: 0.000000
+rank: 1, calculation time: 7.981579
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+Number of Chunks are : 2
+rank: 0, calculation time: 4.271336
+rank: 1, transmission time: 0.000000
+rank: 1, calculation time: 8.082768

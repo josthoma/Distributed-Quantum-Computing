@@ -1,0 +1,5 @@
+rank: 0, dur: 11.474582s, error: 1e-13,  realMem: 41688000b (peak: 41688000b), virtMem: 480776000b (peak: 480776000b)
+rank: 1, dur: 11.599292s, error: 1e-13,  realMem: 41548000b (peak: 41548000b), virtMem: 480780000b (peak: 480780000b)
+rank: 2, dur: 11.457741s, error: 1e-13,  realMem: 41700000b (peak: 41700000b), virtMem: 480776000b (peak: 480776000b)
+rank: 3, dur: 11.593892s, error: 1e-13,  realMem: 41688000b (peak: 41688000b), virtMem: 480780000b (peak: 480780000b)
+11.67989411.67534811.67306611.682179

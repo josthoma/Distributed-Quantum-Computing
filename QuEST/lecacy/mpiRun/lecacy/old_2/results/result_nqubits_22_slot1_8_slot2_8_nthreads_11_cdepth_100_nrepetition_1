@@ -1,0 +1,32 @@
+rank: 0, dur: 30.473742s, error: 1e-13,  realMem: 17276000b (peak: 17276000b), virtMem: 513716000b (peak: 513716000b)
+rank: 1, dur: 30.462796s, error: 1e-13,  realMem: 17408000b (peak: 17408000b), virtMem: 513720000b (peak: 513720000b)
+rank: 2, dur: 30.470803s, error: 1e-13,  realMem: 17540000b (peak: 17540000b), virtMem: 513716000b (peak: 513716000b)
+rank: 3, dur: 30.218329s, error: 1e-13,  realMem: 17364000b (peak: 17364000b), virtMem: 513720000b (peak: 513720000b)
+rank: 4, dur: 30.474609s, error: 1e-13,  realMem: 17288000b (peak: 17288000b), virtMem: 513712000b (peak: 513712000b)
+rank: 5, dur: 30.475257s, error: 1e-13,  realMem: 17556000b (peak: 17556000b), virtMem: 513716000b (peak: 513716000b)
+rank: 6, dur: 30.470471s, error: 1e-13,  realMem: 17312000b (peak: 17312000b), virtMem: 513712000b (peak: 513712000b)
+rank: 7, dur: 30.294639s, error: 1e-13,  realMem: 16192000b (peak: 16192000b), virtMem: 513716000b (peak: 513716000b)
+rank: 8, dur: 30.572014s, error: 1e-13,  realMem: 17412000b (peak: 17412000b), virtMem: 472736000b (peak: 472736000b)
+rank: 9, dur: 30.560521s, error: 1e-13,  realMem: 17364000b (peak: 17364000b), virtMem: 472740000b (peak: 472740000b)
+rank: 10, dur: 30.562343s, error: 1e-13,  realMem: 17280000b (peak: 17280000b), virtMem: 472736000b (peak: 472736000b)
+rank: 11, dur: 30.251566s, error: 1e-13,  realMem: 17484000b (peak: 17484000b), virtMem: 472740000b (peak: 472740000b)
+rank: 12, dur: 30.552239s, error: 1e-13,  realMem: 17264000b (peak: 17264000b), virtMem: 472736000b (peak: 472736000b)
+rank: 13, dur: 30.576747s, error: 1e-13,  realMem: 17504000b (peak: 17504000b), virtMem: 472740000b (peak: 472740000b)
+rank: 14, dur: 30.553271s, error: 1e-13,  realMem: 17384000b (peak: 17384000b), virtMem: 472736000b (peak: 472736000b)
+rank: 15, dur: 30.294442s, error: 1e-13,  realMem: 17488000b (peak: 17488000b), virtMem: 472740000b (peak: 472740000b)
+30.664995
+30.657733
+30.634937
+30.674197
+30.662789
+30.667798
+30.654052
+30.653749
+30.650222
+30.642697
+30.632528
+30.670373
+30.652244
+30.640903
+30.673323
+30.663533

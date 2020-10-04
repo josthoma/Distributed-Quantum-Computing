@@ -1,0 +1,8 @@
+rank: 0, dur: 58.206299s, error: 1e-13,  realMem: 140324000b (peak: 140324000b), virtMem: 603680000b (peak: 603680000b)
+rank: 1, dur: 58.287223s, error: 1e-13,  realMem: 140400000b (peak: 140400000b), virtMem: 603684000b (peak: 603684000b)
+rank: 2, dur: 58.221108s, error: 1e-13,  realMem: 140284000b (peak: 140284000b), virtMem: 603680000b (peak: 603680000b)
+rank: 3, dur: 58.222618s, error: 1e-13,  realMem: 140268000b (peak: 140268000b), virtMem: 603684000b (peak: 603684000b)
+rank: 4, dur: 58.216626s, error: 1e-13,  realMem: 140472000b (peak: 140472000b), virtMem: 603680000b (peak: 603680000b)
+rank: 5, dur: 58.262859s, error: 1e-13,  realMem: 140320000b (peak: 140320000b), virtMem: 603684000b (peak: 603684000b)
+rank: 6, dur: 58.182243s, error: 1e-13,  realMem: 140288000b (peak: 140288000b), virtMem: 603680000b (peak: 603680000b)
+rank: 7, dur: 58.247445s, error: 1e-13,  realMem: 140480000b (peak: 140480000b), virtMem: 603684000b (peak: 603684000b)

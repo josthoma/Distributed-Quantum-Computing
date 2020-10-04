@@ -1,0 +1,42 @@
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+Number of Chunks are : 2
+rank: 1, transmission time: 0.0
+rank: 0, transmission time: 0.0
+rank: 1, calculation time: 6.676523
+rank: 1, dur: 6.676647s, error: 5e-310,  #CPUs: 12
+9.243126
+rank: 0, calculation time: 8.465772
+rank: 0, dur: 8.465911s, error: 5e-310,  #CPUs: 12
+10.782362
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+Number of Chunks are : 2
+rank: 1, transmission time: 0.0
+rank: 0, transmission time: 0.0
+rank: 1, calculation time: 5.990493
+rank: 1, dur: 5.990611s, error: 5e-310,  #CPUs: 12
+7.735556
+rank: 0, calculation time: 8.418029
+rank: 0, dur: 8.418225s, error: 5e-310,  #CPUs: 12
+10.653267
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+Number of Chunks are : 2
+rank: 1, transmission time: 0.0
+rank: 0, transmission time: 0.0
+rank: 1, calculation time: 4.685466
+rank: 1, dur: 4.685591s, error: 5e-310,  #CPUs: 12
+6.304515
+rank: 0, calculation time: 8.393147
+rank: 0, dur: 8.393341s, error: 5e-310,  #CPUs: 12
+10.470696

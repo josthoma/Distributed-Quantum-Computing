@@ -1,0 +1,32 @@
+rank: 0, dur: 29.094610s, error: 1e-13,  realMem: 17460000b (peak: 17460000b), virtMem: 431756000b (peak: 431756000b)
+rank: 1, dur: 29.285345s, error: 1e-13,  realMem: 17388000b (peak: 17388000b), virtMem: 431760000b (peak: 431760000b)
+rank: 2, dur: 29.309224s, error: 1e-13,  realMem: 17484000b (peak: 17484000b), virtMem: 431756000b (peak: 431756000b)
+rank: 3, dur: 28.883434s, error: 1e-13,  realMem: 17480000b (peak: 17480000b), virtMem: 431760000b (peak: 431760000b)
+rank: 4, dur: 29.333008s, error: 1e-13,  realMem: 17292000b (peak: 17292000b), virtMem: 431752000b (peak: 431752000b)
+rank: 5, dur: 29.256718s, error: 1e-13,  realMem: 17344000b (peak: 17344000b), virtMem: 431756000b (peak: 431756000b)
+rank: 6, dur: 29.327961s, error: 1e-13,  realMem: 17312000b (peak: 17312000b), virtMem: 431752000b (peak: 431752000b)
+rank: 7, dur: 28.853208s, error: 1e-13,  realMem: 17492000b (peak: 17492000b), virtMem: 431756000b (peak: 431756000b)
+rank: 8, dur: 29.120968s, error: 1e-13,  realMem: 17484000b (peak: 17484000b), virtMem: 472736000b (peak: 472736000b)
+rank: 9, dur: 29.285845s, error: 1e-13,  realMem: 17436000b (peak: 17436000b), virtMem: 472740000b (peak: 472740000b)
+rank: 10, dur: 29.312910s, error: 1e-13,  realMem: 17324000b (peak: 17324000b), virtMem: 472736000b (peak: 472736000b)
+rank: 11, dur: 28.839575s, error: 1e-13,  realMem: 17232000b (peak: 17232000b), virtMem: 472740000b (peak: 472740000b)
+rank: 12, dur: 29.349898s, error: 1e-13,  realMem: 17348000b (peak: 17348000b), virtMem: 472736000b (peak: 472736000b)
+rank: 13, dur: 29.258383s, error: 1e-13,  realMem: 17216000b (peak: 17216000b), virtMem: 472740000b (peak: 472740000b)
+rank: 14, dur: 29.343484s, error: 1e-13,  realMem: 17528000b (peak: 17528000b), virtMem: 472736000b (peak: 472736000b)
+rank: 15, dur: 28.835457s, error: 1e-13,  realMem: 17400000b (peak: 17400000b), virtMem: 472740000b (peak: 472740000b)
+29.414019
+29.409082
+29.420834
+29.437919
+29.411874
+29.441640
+29.431020
+29.427992
+29.425462
+29.422866
+29.422354
+29.417016
+29.436009
+29.433299
+29.444309
+29.421869

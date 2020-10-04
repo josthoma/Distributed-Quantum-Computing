@@ -1,0 +1,32 @@
+rank: 0, dur: 29.473901s, error: 1e-13,  realMem: 17496000b (peak: 17496000b), virtMem: 497324000b (peak: 497324000b)
+rank: 1, dur: 29.310755s, error: 1e-13,  realMem: 17324000b (peak: 17324000b), virtMem: 497328000b (peak: 497328000b)
+rank: 2, dur: 29.525819s, error: 1e-13,  realMem: 17560000b (peak: 17560000b), virtMem: 497324000b (peak: 497324000b)
+rank: 3, dur: 29.319018s, error: 1e-13,  realMem: 15912000b (peak: 15912000b), virtMem: 497328000b (peak: 497328000b)
+rank: 4, dur: 29.532363s, error: 1e-13,  realMem: 17476000b (peak: 17476000b), virtMem: 497320000b (peak: 497320000b)
+rank: 5, dur: 29.129641s, error: 1e-13,  realMem: 17412000b (peak: 17412000b), virtMem: 497324000b (peak: 497324000b)
+rank: 6, dur: 29.530351s, error: 1e-13,  realMem: 17328000b (peak: 17328000b), virtMem: 497320000b (peak: 497320000b)
+rank: 7, dur: 29.195402s, error: 1e-13,  realMem: 17504000b (peak: 17504000b), virtMem: 497324000b (peak: 497324000b)
+rank: 8, dur: 29.471952s, error: 1e-13,  realMem: 17376000b (peak: 17376000b), virtMem: 472736000b (peak: 472736000b)
+rank: 9, dur: 29.322280s, error: 1e-13,  realMem: 17280000b (peak: 17280000b), virtMem: 472740000b (peak: 472740000b)
+rank: 10, dur: 29.558728s, error: 1e-13,  realMem: 17364000b (peak: 17364000b), virtMem: 472736000b (peak: 472736000b)
+rank: 11, dur: 29.335598s, error: 1e-13,  realMem: 17484000b (peak: 17484000b), virtMem: 472740000b (peak: 472740000b)
+rank: 12, dur: 29.568126s, error: 1e-13,  realMem: 17340000b (peak: 17340000b), virtMem: 472736000b (peak: 472736000b)
+rank: 13, dur: 29.145607s, error: 1e-13,  realMem: 17316000b (peak: 17316000b), virtMem: 472740000b (peak: 472740000b)
+rank: 14, dur: 29.564941s, error: 1e-13,  realMem: 17336000b (peak: 17336000b), virtMem: 472736000b (peak: 472736000b)
+rank: 15, dur: 29.195742s, error: 1e-13,  realMem: 17488000b (peak: 17488000b), virtMem: 472740000b (peak: 472740000b)
+29.662695
+29.650296
+29.664801
+29.642912
+29.657465
+29.642829
+29.644913
+29.644438
+29.628937
+29.635979
+29.631366
+29.648585
+29.646610
+29.641273
+29.655908
+29.634238

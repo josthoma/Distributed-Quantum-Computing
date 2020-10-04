@@ -1,0 +1,6 @@
+rank: 1, dur: 18.373476s, error: 5e-310,  realMem: 1056648000b (peak: 1056648000b), virtMem: 1344960000b (peak: 1344960000b)
+rank: 0, dur: 18.335626s, error: 5e-310,  realMem: 1056684000b (peak: 1056684000b), virtMem: 1361356000b (peak: 1361356000b)
+total time: 18.811273
+rank: 0, cpu_id: 11, pid: 4012, cpu_usage: 99.78757 %
+total time: 19.057104
+rank: 1, cpu_id: 6, pid: 19547, cpu_usage: 176.14053 %

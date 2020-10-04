@@ -1,0 +1,434 @@
+narg: 8
+numInpKeys: 7
+narg: 8
+numInpKeys: 7
+Simulating random circuit with params:
+platform:	Cluster
+framework:	mul_node
+filename:	mul_Data
+numThreads:	1
+circuitDepth:	100
+numQubits:	15
+numRepetitions:	100
+randomSeed:	8171550978220620633
+Simulating random circuit with params:
+platform:	Cluster
+framework:	mul_node
+filename:	mul_Data
+numThreads:	1
+circuitDepth:	100
+numQubits:	15
+numRepetitions:	100
+randomSeed:	8171550978220620633
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.190731s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.191986s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118732s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.122539s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115776s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116404s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117838s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118959s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.111736s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121991s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.120063s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.117353s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.117744s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.118920s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.126036s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.127765s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.117891s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.122476s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120370s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.124735s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.113331s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.120700s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.115933s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.120103s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116014s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121903s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117209s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121565s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.124324s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.115781s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.116254s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.121425s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.117084s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.122061s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.120092s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.121550s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119003s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121774s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.113361s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118458s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112679s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121483s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119012s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.108688s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119381s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118436s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+sh: vmmap: command not found
+dur: 0.114461s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+rm: cannot remove ‘memoryFile’: No such file or directory
+dur: 0.121396s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117675s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123945s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.114788s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118454s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.109043s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121559s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.110530s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.124542s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115078s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.122558s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.125317s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117965s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.113645s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.113730s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115980s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117499s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120003s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119930s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.110009s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.125902s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.109366s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117735s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.113902s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120875s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118226s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.124029s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112258s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.114830s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118153s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112786s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.122884s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.114181s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115609s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115020s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116895s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119059s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115824s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119717s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117547s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115660s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116366s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121359s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112737s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123450s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.114977s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116142s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120984s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120519s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.122096s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.110443s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118833s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123280s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116264s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123818s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.109727s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115728s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.114756s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117402s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.110744s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.110125s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.122467s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115338s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117262s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.107461s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121687s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112904s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121738s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.110171s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.125383s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120905s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119053s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116796s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.109518s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118484s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.122851s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119480s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123275s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112804s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115960s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121161s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121519s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.111244s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.122469s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117669s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121927s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120993s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115202s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117687s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.111779s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123898s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.125204s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117568s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118267s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115188s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115098s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117780s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123730s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112808s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123306s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115063s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112381s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112420s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112236s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119010s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119519s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123888s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.109753s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119979s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120320s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123932s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.110056s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121019s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.110174s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.125525s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.113898s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119271s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117154s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.113408s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121172s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115538s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116801s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117685s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.122747s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.122082s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112017s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120996s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119908s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.112335s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116804s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120296s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116646s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123215s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117871s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.109196s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120743s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.110720s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.121133s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.114327s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.116730s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.114151s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.118718s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.123473s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.120478s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.114574s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.114371s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.127146s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.119628s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.124153s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115052s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.117356s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.115583s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)
+sh: vmmap: command not found
+dur: 0.091872s, error: 7e-14,  realMem: 0b (peak: 0b), virtMem: 0b (peak: 0b)

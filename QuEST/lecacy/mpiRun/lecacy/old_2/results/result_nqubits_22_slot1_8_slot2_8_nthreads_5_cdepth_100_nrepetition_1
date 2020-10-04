@@ -1,0 +1,32 @@
+rank: 0, dur: 29.547677s, error: 1e-13,  realMem: 17456000b (peak: 17456000b), virtMem: 464540000b (peak: 464540000b)
+rank: 1, dur: 29.499459s, error: 1e-13,  realMem: 17380000b (peak: 17380000b), virtMem: 464544000b (peak: 464544000b)
+rank: 2, dur: 29.501463s, error: 1e-13,  realMem: 17468000b (peak: 17468000b), virtMem: 464540000b (peak: 464540000b)
+rank: 3, dur: 29.542318s, error: 1e-13,  realMem: 17512000b (peak: 17512000b), virtMem: 464544000b (peak: 464544000b)
+rank: 4, dur: 29.566687s, error: 1e-13,  realMem: 17320000b (peak: 17320000b), virtMem: 464536000b (peak: 464536000b)
+rank: 5, dur: 29.398991s, error: 1e-13,  realMem: 17348000b (peak: 17348000b), virtMem: 464540000b (peak: 464540000b)
+rank: 6, dur: 29.545568s, error: 1e-13,  realMem: 17508000b (peak: 17508000b), virtMem: 464536000b (peak: 464536000b)
+rank: 7, dur: 29.557125s, error: 1e-13,  realMem: 17424000b (peak: 17424000b), virtMem: 464540000b (peak: 464540000b)
+rank: 8, dur: 29.639513s, error: 1e-13,  realMem: 17308000b (peak: 17308000b), virtMem: 472736000b (peak: 472736000b)
+rank: 9, dur: 29.524228s, error: 1e-13,  realMem: 17384000b (peak: 17384000b), virtMem: 472740000b (peak: 472740000b)
+rank: 10, dur: 29.539596s, error: 1e-13,  realMem: 17392000b (peak: 17392000b), virtMem: 472736000b (peak: 472736000b)
+rank: 11, dur: 29.620074s, error: 1e-13,  realMem: 17324000b (peak: 17324000b), virtMem: 472740000b (peak: 472740000b)
+rank: 12, dur: 29.626632s, error: 1e-13,  realMem: 17484000b (peak: 17484000b), virtMem: 472736000b (peak: 472736000b)
+rank: 13, dur: 29.429690s, error: 1e-13,  realMem: 17408000b (peak: 17408000b), virtMem: 472740000b (peak: 472740000b)
+rank: 14, dur: 29.600278s, error: 1e-13,  realMem: 17520000b (peak: 17520000b), virtMem: 472736000b (peak: 472736000b)
+rank: 15, dur: 29.647306s, error: 1e-13,  realMem: 17364000b (peak: 17364000b), virtMem: 472740000b (peak: 472740000b)
+29.728893
+29.726637
+29.724332
+29.708512
+29.710029
+29.717500
+29.715296
+29.722521
+29.706991
+29.698215
+29.690661
+29.709117
+29.708467
+29.695810
+29.692136
+29.705361

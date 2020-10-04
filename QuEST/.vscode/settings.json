@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "quest_validation.h": "c",
+        "quest_precision.h": "c",
+        "*.tcc": "c",
+        "cstdlib": "c",
+        "memory": "c"
+    }
+}

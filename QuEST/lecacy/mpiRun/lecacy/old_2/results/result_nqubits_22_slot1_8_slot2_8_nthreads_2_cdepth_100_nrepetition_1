@@ -1,0 +1,32 @@
+rank: 0, dur: 29.566658s, error: 1e-13,  realMem: 17424000b (peak: 17424000b), virtMem: 439952000b (peak: 439952000b)
+rank: 2, dur: 29.548299s, error: 1e-13,  realMem: 17420000b (peak: 17420000b), virtMem: 439952000b (peak: 439952000b)
+rank: 3, dur: 29.776087s, error: 1e-13,  realMem: 17400000b (peak: 17400000b), virtMem: 439956000b (peak: 439956000b)
+rank: 4, dur: 29.782354s, error: 1e-13,  realMem: 17360000b (peak: 17360000b), virtMem: 439948000b (peak: 439948000b)
+rank: 5, dur: 29.609273s, error: 1e-13,  realMem: 17324000b (peak: 17324000b), virtMem: 439952000b (peak: 439952000b)
+rank: 6, dur: 29.774744s, error: 1e-13,  realMem: 17320000b (peak: 17320000b), virtMem: 439948000b (peak: 439948000b)
+rank: 7, dur: 29.673171s, error: 1e-13,  realMem: 17384000b (peak: 17384000b), virtMem: 439952000b (peak: 439952000b)
+rank: 1, dur: 29.778668s, error: 1e-13,  realMem: 17380000b (peak: 17380000b), virtMem: 439956000b (peak: 439956000b)
+rank: 8, dur: 29.641913s, error: 1e-13,  realMem: 17484000b (peak: 17484000b), virtMem: 472736000b (peak: 472736000b)
+rank: 10, dur: 29.639822s, error: 1e-13,  realMem: 17444000b (peak: 17444000b), virtMem: 472736000b (peak: 472736000b)
+rank: 12, dur: 29.831364s, error: 1e-13,  realMem: 17476000b (peak: 17476000b), virtMem: 472736000b (peak: 472736000b)
+rank: 13, dur: 29.650072s, error: 1e-13,  realMem: 17416000b (peak: 17416000b), virtMem: 472740000b (peak: 472740000b)
+rank: 14, dur: 29.835655s, error: 1e-13,  realMem: 17376000b (peak: 17376000b), virtMem: 472736000b (peak: 472736000b)
+rank: 15, dur: 29.681184s, error: 1e-13,  realMem: 17504000b (peak: 17504000b), virtMem: 472740000b (peak: 472740000b)
+rank: 9, dur: 29.839365s, error: 1e-13,  realMem: 17288000b (peak: 17288000b), virtMem: 472740000b (peak: 472740000b)
+rank: 11, dur: 29.803503s, error: 1e-13,  realMem: 17524000b (peak: 17524000b), virtMem: 472740000b (peak: 472740000b)
+29.933167
+29.915631
+29.926358
+29.919943
+29.935484
+29.930973
+29.896050
+29.917758
+29.913802
+29.906830
+29.904230
+29.917320
+29.917270
+29.923955
+29.938343
+29.902260

@@ -1,0 +1,277 @@
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 1, transmission time: 0.000000
+
+Thread 0, CPU 0
+
+Thread 2, CPU 6
+
+Thread 3, CPU 3
+
+Thread 1, CPU 7
+
+Thread 11, CPU 1
+
+Thread 5, CPU 11
+
+Thread 10, CPU 9
+
+Thread 9, CPU 10
+
+Thread 6, CPU 4
+
+Thread 4, CPU 5
+
+Thread 8, CPU 8
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+
+Thread 7, CPU 2
+rank: 1, calculation time: 0.004961
+
+Thread 0, CPU 1
+
+Thread 1, CPU 3
+
+Thread 2, CPU 2
+
+Thread 3, CPU 0
+rank: 0, calculation time: 0.002896
+--------------------------------------------------------------------------
+ORTE was unable to reliably start one or more daemons.
+This usually is caused by:
+
+* not finding the required libraries and/or binaries on
+  one or more nodes. Please check your PATH and LD_LIBRARY_PATH
+  settings, or configure OMPI with --enable-orterun-prefix-by-default
+
+* lack of authority to execute on one or more specified nodes.
+  Please verify your allocation and authorities.
+
+* the inability to write startup files into /tmp (--tmpdir/orte_tmpdir_base).
+  Please check with your sys admin to determine the correct location to use.
+
+*  compilation of the orted with dynamic libraries when static are required
+  (e.g., on Cray). Please check your configure cmd line and consider using
+  one of the contrib/platform definitions for your system type.
+
+* an inability to create a connection back to mpirun due to a
+  lack of common network interfaces and/or no route found between
+  them. Please check network connectivity (including firewalls
+  and network routing requirements).
+--------------------------------------------------------------------------
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 1, transmission time: 0.000000
+
+Thread 11, CPU 9
+
+Thread 4, CPU 3
+
+Thread 8, CPU 7
+
+Thread 3, CPU 9
+
+Thread 5, CPU 5
+
+Thread 1, CPU 1
+
+Thread 0, CPU 2
+
+Thread 10, CPU 1
+
+Thread 6, CPU 9
+
+Thread 2, CPU 5
+
+Thread 9, CPU 2
+
+Thread 7, CPU 5
+rank: 1, calculation time: 0.008435
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+
+Thread 0, CPU 2
+
+Thread 1, CPU 1
+
+Thread 2, CPU 3
+
+Thread 3, CPU 3
+rank: 0, calculation time: 0.018113
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 1, transmission time: 0.000000
+
+Thread 9, CPU 6
+
+Thread 0, CPU 0
+
+Thread 5, CPU 2
+
+Thread 7, CPU 5
+
+Thread 3, CPU 7
+
+Thread 2, CPU 1
+
+Thread 11, CPU 9
+
+Thread 8, CPU 4
+
+Thread 10, CPU 11
+
+Thread 6, CPU 3
+
+Thread 4, CPU 8
+
+Thread 1, CPU 6
+rank: 1, calculation time: 0.005304
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+
+Thread 2, CPU 1
+
+Thread 1, CPU 3
+
+Thread 0, CPU 2
+
+Thread 3, CPU 0
+rank: 0, calculation time: 0.002922
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 1, transmission time: 0.000000
+
+Thread 0, CPU 9
+
+Thread 7, CPU 11
+
+Thread 9, CPU 3
+
+Thread 8, CPU 5
+
+Thread 5, CPU 7
+
+Thread 4, CPU 1
+
+Thread 1, CPU 2
+
+Thread 3, CPU 9
+
+Thread 11, CPU 6
+
+Thread 10, CPU 5
+
+Thread 6, CPU 3
+
+Thread 2, CPU 1
+rank: 1, calculation time: 0.005949
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+
+Thread 0, CPU 1
+
+Thread 2, CPU 3
+
+Thread 3, CPU 1
+
+Thread 1, CPU 3
+rank: 0, calculation time: 0.008269
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 1, transmission time: 0.000000
+
+Thread 2, CPU 3
+
+Thread 0, CPU 1
+
+Thread 11, CPU 5
+
+Thread 5, CPU 7
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+
+Thread 4, CPU 0
+
+Thread 3, CPU 3
+
+Thread 7, CPU 9
+
+Thread 1, CPU 11
+
+Thread 8, CPU 9
+
+Thread 10, CPU 7
+
+Thread 3, CPU 1
+
+Thread 1, CPU 3
+
+Thread 0, CPU 2
+
+Thread 2, CPU 0
+rank: 0, calculation time: 0.002903
+
+Thread 6, CPU 0
+
+Thread 9, CPU 2
+rank: 1, calculation time: 0.008302
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 1, transmission time: 0.000000
+
+Thread 0, CPU 1
+
+Thread 7, CPU 0
+
+Thread 10, CPU 10
+
+Thread 9, CPU 5
+
+Thread 4, CPU 7
+
+Thread 3, CPU 9
+
+Thread 2, CPU 3
+
+Thread 8, CPU 4
+
+Thread 1, CPU 2
+
+Thread 5, CPU 8
+
+Thread 6, CPU 6
+
+Thread 11, CPU 11
+rank: 1, calculation time: 0.003921
+Number of Chunks are : 2
+rank: 0, transmission time: 0.000000
+
+Thread 0, CPU 2
+
+Thread 3, CPU 1
+
+Thread 2, CPU 3
+
+Thread 1, CPU 0
+rank: 0, calculation time: 0.002970
+Abort is in progress...hit ctrl-c again within 5 seconds to forcibly terminate
+

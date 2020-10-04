@@ -1,0 +1,12 @@
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+rank: 0, last but one
+Number of Chunks are : 2
+rank: 1, last but one
+rank: 1, transmission time: 36.888911
+rank: 0, transmission time: 38.741773
+rank: 0, calculation time: 2.120164
+rank: 1, calculation time: 3.839478

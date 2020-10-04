@@ -1,0 +1,14 @@
+cloud4 cpuset
+Processor cloud4
+cloud5 cpuset
+Processor cloud5
+Number of Chunks are : 2
+Number of Chunks are : 2
+rank: 0, transmission time: 127.962758
+rank: 1, transmission time: 128.989153
+rank: 1, calculation time: 2.848107
+rank: 1, dur: 131.837327s, error: 5e-310,  #CPUs: 12
+132.651394
+rank: 0, calculation time: 4.228963
+rank: 0, dur: 132.191799s, error: 5e-310,  #CPUs: 12
+133.264089
