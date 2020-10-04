@@ -1,3 +1,13 @@
+# Overview (updated 10/20)
+
+We implemented an adaptive algorithm on Quantum computing framework QuEST which enables the simulator to be run more efficiently on heterogenous distributed systems. Our experiments showed improved execution time for larger qubits (28,29 etc.)
+
+This work was done under the guidance of Dr. Charlie Hu at Purdue University along with Teng Bian.
+
+Note: We do not have any rights to the QuEST repository. We forked QuEST from https://github.com/QuEST-Kit/QuEST, modified the source code for our experiments.
+
+If you want more details on the final results contact: thoma900@purdue.edu or biant@purdue.edu
+
 # Instruction (updated 04/20)
 
 How to run the script in cloud?
